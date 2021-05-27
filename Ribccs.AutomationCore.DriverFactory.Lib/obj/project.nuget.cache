@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zYF7O/EKfM0LFVzPYDvP4MF2j7zTtBjHxJqlVttSAQvOx5UsT1c/Tri9bNVyb/AbaxfjQfEOctrkhONjpMuHTw==",
+  "dgSpecHash": "HKQ1Km9Jj9R77FD7Am45zShfpi59gtvm48oKinREnLUOlUudDMqTOb1scmHoxYTKIyY8N39Vcza1IVztdUEU4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
+  "projectFilePath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\margp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\margp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

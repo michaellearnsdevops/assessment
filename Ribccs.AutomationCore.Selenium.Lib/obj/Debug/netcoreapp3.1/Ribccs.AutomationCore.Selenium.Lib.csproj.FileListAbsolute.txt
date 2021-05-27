@@ -1,0 +1,12 @@
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.deps.json
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.dll
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.pdb
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.dll
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.pdb
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.csproj.AssemblyReference.cache
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.AssemblyInfoInputs.cache
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.AssemblyInfo.cs
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.csproj.CoreCompileInputs.cache
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.csproj.CopyComplete
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.dll
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.AutomationCore.Selenium.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.pdb

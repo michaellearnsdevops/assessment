@@ -1,4 +1,4 @@
-﻿using Ribccs.AutomationCore.IntracteWithBrowser.Lib;
+﻿using Ribccs.AutomationCore.Selenium.Lib;
 using OpenQA.Selenium;
 
 namespace Ribccs.GlobalSqa.Lib.PageObject

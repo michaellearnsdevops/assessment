@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
+        "projectName": "Ribccs.AutomationCore.DriverFactory.Lib",
+        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
+        "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj",
+        "projectName": "Ribccs.AutomationCore.Selenium.Lib",
+        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj",
+        "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj": {
+                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

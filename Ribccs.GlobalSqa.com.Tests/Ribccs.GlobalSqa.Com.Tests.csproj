@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Ribccs.AutomationCore.IntracteWithBrowser.Lib\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj" />
+    <ProjectReference Include="..\Ribccs.AutomationCore.Selenium.Lib\Ribccs.AutomationCore.Selenium.Lib.csproj" />
     <ProjectReference Include="..\Ribccs.GlobalSqa.com.Lib\Ribccs.GlobalSqa.com.Lib.csproj" />
   </ItemGroup>
 

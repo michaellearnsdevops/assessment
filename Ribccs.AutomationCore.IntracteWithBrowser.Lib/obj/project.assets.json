@@ -3297,11 +3297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
+      "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
       "projectName": "Ribccs.AutomationCore.IntracteWithBrowser.Lib",
-      "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
+      "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
       "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\obj\\",
+      "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3318,8 +3318,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj": {
-              "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj"
+            "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj": {
+              "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj"
             }
           }
         }

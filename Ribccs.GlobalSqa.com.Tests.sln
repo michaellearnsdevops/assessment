@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ribccs.GlobalSqa.Com.Tests"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ribccs.AutomationCore.DriverFactory.Lib", "Ribccs.AutomationCore.DriverFactory.Lib\Ribccs.AutomationCore.DriverFactory.Lib.csproj", "{460AE199-760D-46C9-910B-4C5BEBF3C8B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ribccs.AutomationCore.IntracteWithBrowser.Lib", "Ribccs.AutomationCore.IntracteWithBrowser.Lib\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj", "{CAE80A11-999E-4392-8C01-4C5802F39DAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ribccs.AutomationCore.Selenium.Lib", "Ribccs.AutomationCore.Selenium.Lib\Ribccs.AutomationCore.Selenium.Lib.csproj", "{CAE80A11-999E-4392-8C01-4C5802F39DAD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ribccs.GlobalSqa.com.Lib", "Ribccs.GlobalSqa.com.Lib\Ribccs.GlobalSqa.com.Lib.csproj", "{E0529C8D-ECF4-42AE-9893-81D66FD71BD7}"
 EndProject

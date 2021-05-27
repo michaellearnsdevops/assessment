@@ -5241,11 +5241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
+      "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
       "projectName": "Ribccs.AutomationCore.DriverFactory.Lib",
-      "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
+      "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
       "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\obj\\",
+      "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",

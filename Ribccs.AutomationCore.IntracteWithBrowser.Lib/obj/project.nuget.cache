@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aja4XDYgLtrDC+zcg23uroDDkw/GC5fXxyLAyKGqjkWSzeNroHwFykguJL81y9t4Iro9G6EK9pvFwpfR/4D3jQ==",
+  "dgSpecHash": "TNu/s9RSY/QFCKFj8QFpkfnszhq6TO63iMsKlsZZ1FTSG6CZb0/4VGvwnaB8l+aHqk9gYcIi9zCm5F+8vZnJ2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
+  "projectFilePath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\margp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\margp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

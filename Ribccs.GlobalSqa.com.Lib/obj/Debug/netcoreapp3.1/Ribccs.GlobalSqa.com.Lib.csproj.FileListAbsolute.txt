@@ -12,3 +12,17 @@ C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.GlobalSqa.com.Lib\obj\Deb
 C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.csproj.CopyComplete
 C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.dll
 C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.pdb
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\bin\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.deps.json
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\bin\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.dll
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\bin\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.pdb
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.dll
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.pdb
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.csproj.AssemblyReference.cache
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.AssemblyInfoInputs.cache
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.AssemblyInfo.cs
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.csproj.CoreCompileInputs.cache
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.csproj.CopyComplete
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.dll
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\obj\Debug\netcoreapp3.1\Ribccs.GlobalSqa.com.Lib.pdb
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.dll
+C:\Users\margp\source\repos\ribccs_assessment\assessment\Ribccs.GlobalSqa.com.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.Selenium.Lib.pdb

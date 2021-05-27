@@ -11,7 +11,7 @@
           "Microsoft.NET.Test.Sdk": "16.7.1",
           "NUnit": "3.12.0",
           "NUnit3TestAdapter": "3.16.1",
-          "Ribccs.AutomationCore.IntracteWithBrowser.Lib": "1.0.0",
+          "Ribccs.AutomationCore.Selenium.Lib": "1.0.0",
           "Ribccs.GlobalSqa.com.Lib": "1.0.0"
         },
         "runtime": {
@@ -866,7 +866,7 @@
           "Ribccs.AutomationCore.DriverFactory.Lib.dll": {}
         }
       },
-      "Ribccs.AutomationCore.IntracteWithBrowser.Lib/1.0.0": {
+      "Ribccs.AutomationCore.Selenium.Lib/1.0.0": {
         "dependencies": {
           "NUnit": "3.12.0",
           "Ribccs.AutomationCore.DriverFactory.Lib": "1.0.0",
@@ -874,12 +874,12 @@
           "Selenium.WebDriver": "3.141.0"
         },
         "runtime": {
-          "Ribccs.AutomationCore.IntracteWithBrowser.Lib.dll": {}
+          "Ribccs.AutomationCore.Selenium.Lib.dll": {}
         }
       },
       "Ribccs.GlobalSqa.com.Lib/1.0.0": {
         "dependencies": {
-          "Ribccs.AutomationCore.IntracteWithBrowser.Lib": "1.0.0"
+          "Ribccs.AutomationCore.Selenium.Lib": "1.0.0"
         },
         "runtime": {
           "Ribccs.GlobalSqa.com.Lib.dll": {}
@@ -1346,7 +1346,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Ribccs.AutomationCore.IntracteWithBrowser.Lib/1.0.0": {
+    "Ribccs.AutomationCore.Selenium.Lib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

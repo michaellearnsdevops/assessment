@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj": {}
+    "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj": {
+    "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
         "projectName": "Ribccs.AutomationCore.DriverFactory.Lib",
-        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
+        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj",
         "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\obj\\",
+        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj": {
+    "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
-        "projectName": "Ribccs.AutomationCore.IntracteWithBrowser.Lib",
-        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj",
+        "projectName": "Ribccs.AutomationCore.Selenium.Lib",
+        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj",
         "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\obj\\",
+        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj": {
-                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj"
+              "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj": {
+                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.DriverFactory.Lib\\Ribccs.AutomationCore.DriverFactory.Lib.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj": {
+    "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj",
         "projectName": "Ribccs.GlobalSqa.com.Lib",
-        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj",
+        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj",
         "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\obj\\",
+        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,8 +160,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj": {
-                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj"
+              "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj": {
+                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj"
               }
             }
           }
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj": {
+    "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
         "projectName": "Ribccs.GlobalSqa.Com.Tests",
-        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
+        "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
         "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\obj\\",
+        "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -218,11 +218,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj": {
-                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj"
+              "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj": {
+                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj"
               },
-              "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj": {
-                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj"
+              "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj": {
+                "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj"
               }
             }
           }

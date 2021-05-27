@@ -1,4 +1,4 @@
-﻿using Ribccs.AutomationCore.IntracteWithBrowser.Lib;
+﻿using Ribccs.AutomationCore.Selenium.Lib;
 using Ribccs.GlobalSqa.Lib.PageObject;
 using NUnit.Framework;
 

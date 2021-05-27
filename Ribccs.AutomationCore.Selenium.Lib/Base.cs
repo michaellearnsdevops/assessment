@@ -6,13 +6,13 @@ using OpenQA.Selenium.Support.UI;
 using System;
 using System.Threading;
 
-namespace Ribccs.AutomationCore.IntracteWithBrowser.Lib
+namespace Ribccs.AutomationCore.Selenium.Lib
 {
     public class Base
     {
         BrowserFactory browser = new BrowserFactory();
         public IWebDriver Driver { get; set; }
-        TimeSpan Timeout = TimeSpan.FromSeconds(5);
+        TimeSpan Timeout = TimeSpan.FromSeconds(10);
 
         public Base()
         {

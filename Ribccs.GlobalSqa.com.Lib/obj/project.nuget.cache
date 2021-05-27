@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sqKfTS+08zSJmVTrwTFd7j+4MvXACYpBvT4OzeBfndrrcX7x1awV5Wq/TIZZ/Anv/OGLXv65WzQnMNMt/v+S8w==",
+  "dgSpecHash": "Iw+ccbuDu7RiUkTbPY1zZ8dFcp6r5EFcM0YZ2uOhhQDJSW54mFK/2drn4KKXjvDol7/tsjAVcEdZO+qyW+uaMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj",
+  "projectFilePath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\margp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\margp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

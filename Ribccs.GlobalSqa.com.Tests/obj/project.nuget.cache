@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "av5fiPTxcbu26Nh/dsDW0z/MsRBmjGEELD7GVVfiPXyouO3noUaIf/JR0sFsGFf2qNmvISNj33z0H7atX0juQg==",
+  "dgSpecHash": "OIFLxGgk3ZTKa0rX8xocAtzM5k72agByphtHJiyELP+PGd5MkaAViWujjARLngBUURhaCLaRCMfH+VnplnfrMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
+  "projectFilePath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\margp\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\margp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

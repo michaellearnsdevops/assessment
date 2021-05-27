@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Ribccs.AutomationCore.IntracteWithBrowser.Lib\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj" />
+    <ProjectReference Include="..\Ribccs.AutomationCore.Selenium.Lib\Ribccs.AutomationCore.Selenium.Lib.csproj" />
   </ItemGroup>
 
 </Project>

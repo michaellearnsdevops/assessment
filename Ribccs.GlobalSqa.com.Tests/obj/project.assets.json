@@ -1228,7 +1228,7 @@
           "bin/placeholder/Ribccs.AutomationCore.DriverFactory.Lib.dll": {}
         }
       },
-      "Ribccs.AutomationCore.IntracteWithBrowser.Lib/1.0.0": {
+      "Ribccs.AutomationCore.Selenium.Lib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1238,17 +1238,17 @@
           "Selenium.WebDriver": "3.141.0"
         },
         "compile": {
-          "bin/placeholder/Ribccs.AutomationCore.IntracteWithBrowser.Lib.dll": {}
+          "bin/placeholder/Ribccs.AutomationCore.Selenium.Lib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ribccs.AutomationCore.IntracteWithBrowser.Lib.dll": {}
+          "bin/placeholder/Ribccs.AutomationCore.Selenium.Lib.dll": {}
         }
       },
       "Ribccs.GlobalSqa.com.Lib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Ribccs.AutomationCore.IntracteWithBrowser.Lib": "1.0.0"
+          "Ribccs.AutomationCore.Selenium.Lib": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Ribccs.GlobalSqa.com.Lib.dll": {}
@@ -4621,10 +4621,10 @@
       "path": "../Ribccs.AutomationCore.DriverFactory.Lib/Ribccs.AutomationCore.DriverFactory.Lib.csproj",
       "msbuildProject": "../Ribccs.AutomationCore.DriverFactory.Lib/Ribccs.AutomationCore.DriverFactory.Lib.csproj"
     },
-    "Ribccs.AutomationCore.IntracteWithBrowser.Lib/1.0.0": {
+    "Ribccs.AutomationCore.Selenium.Lib/1.0.0": {
       "type": "project",
-      "path": "../Ribccs.AutomationCore.IntracteWithBrowser.Lib/Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj",
-      "msbuildProject": "../Ribccs.AutomationCore.IntracteWithBrowser.Lib/Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj"
+      "path": "../Ribccs.AutomationCore.Selenium.Lib/Ribccs.AutomationCore.Selenium.Lib.csproj",
+      "msbuildProject": "../Ribccs.AutomationCore.Selenium.Lib/Ribccs.AutomationCore.Selenium.Lib.csproj"
     },
     "Ribccs.GlobalSqa.com.Lib/1.0.0": {
       "type": "project",
@@ -4637,7 +4637,7 @@
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
-      "Ribccs.AutomationCore.IntracteWithBrowser.Lib >= 1.0.0",
+      "Ribccs.AutomationCore.Selenium.Lib >= 1.0.0",
       "Ribccs.GlobalSqa.com.Lib >= 1.0.0"
     ]
   },
@@ -4647,11 +4647,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
       "projectName": "Ribccs.GlobalSqa.Com.Tests",
-      "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
+      "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\Ribccs.GlobalSqa.Com.Tests.csproj",
       "packagesPath": "C:\\Users\\margp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Tests\\obj\\",
+      "outputPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\margp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4668,11 +4668,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj": {
-              "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.AutomationCore.IntracteWithBrowser.Lib\\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj"
+            "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj": {
+              "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.AutomationCore.Selenium.Lib\\Ribccs.AutomationCore.Selenium.Lib.csproj"
             },
-            "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj": {
-              "projectPath": "C:\\Users\\margp\\source\\repos\\ribccc\\ribccs.Tests\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj"
+            "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj": {
+              "projectPath": "C:\\Users\\margp\\source\\repos\\ribccs_assessment\\assessment\\Ribccs.GlobalSqa.com.Lib\\Ribccs.GlobalSqa.com.Lib.csproj"
             }
           }
         }
