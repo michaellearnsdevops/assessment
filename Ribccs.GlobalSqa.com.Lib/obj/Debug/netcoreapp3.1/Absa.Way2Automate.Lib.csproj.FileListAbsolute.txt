@@ -1,0 +1,14 @@
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\bin\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.deps.json
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\bin\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.dll
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\bin\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.pdb
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.DriverFactory.Lib.dll
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.dll
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.pdb
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.DriverFactory.Lib.pdb
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\obj\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.csproj.AssemblyReference.cache
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\obj\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.AssemblyInfoInputs.cache
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\obj\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.AssemblyInfo.cs
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\obj\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.csproj.CoreCompileInputs.cache
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\obj\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.csproj.CopyComplete
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\obj\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.dll
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.Way2Automate.Lib\obj\Debug\netcoreapp3.1\Absa.Way2Automate.Lib.pdb

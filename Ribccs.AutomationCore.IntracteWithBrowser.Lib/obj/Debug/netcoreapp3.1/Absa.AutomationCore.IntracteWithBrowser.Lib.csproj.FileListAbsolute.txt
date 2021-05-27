@@ -1,0 +1,12 @@
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.deps.json
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.dll
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.pdb
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.DriverFactory.Lib.dll
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Absa.AutomationCore.DriverFactory.Lib.pdb
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.csproj.AssemblyReference.cache
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.AssemblyInfoInputs.cache
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.AssemblyInfo.cs
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.csproj.CoreCompileInputs.cache
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.csproj.CopyComplete
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.dll
+C:\Users\margp\source\repos\Way2Automate\Absa.Way2Automate.Tests\Absa.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Absa.AutomationCore.IntracteWithBrowser.Lib.pdb

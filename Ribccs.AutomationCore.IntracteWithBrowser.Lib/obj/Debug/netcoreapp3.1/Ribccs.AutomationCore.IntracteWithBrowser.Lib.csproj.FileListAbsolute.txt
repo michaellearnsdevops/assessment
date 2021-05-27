@@ -1,0 +1,12 @@
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.dll
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.deps.json
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.pdb
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.dll
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.pdb
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj.AssemblyReference.cache
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.AssemblyInfoInputs.cache
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.AssemblyInfo.cs
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj.CoreCompileInputs.cache
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.csproj.CopyComplete
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.dll
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.IntracteWithBrowser.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.IntracteWithBrowser.Lib.pdb

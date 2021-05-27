@@ -1,0 +1,8 @@
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.DriverFactory.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.deps.json
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.DriverFactory.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.dll
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.DriverFactory.Lib\bin\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.pdb
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.DriverFactory.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.AssemblyInfoInputs.cache
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.DriverFactory.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.AssemblyInfo.cs
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.DriverFactory.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.csproj.CoreCompileInputs.cache
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.DriverFactory.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.dll
+C:\Users\margp\source\repos\ribccc\ribccs.Tests\Ribccs.AutomationCore.DriverFactory.Lib\obj\Debug\netcoreapp3.1\Ribccs.AutomationCore.DriverFactory.Lib.pdb
